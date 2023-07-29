@@ -3,7 +3,7 @@
 ## DESCRIPTION
 #  e-commerce API project by node.js and mongodb
 ## FEATURES
-# 1- upload photos by "cloudinary" by using : 
+1- upload photos by "cloudinary" by using : 
 a-error handling
 b-validation
 c-send email to registration
