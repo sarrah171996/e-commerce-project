@@ -4,11 +4,11 @@
 #  e-commerce API project by node.js and mongodb
 ## FEATURES
 # 1- upload photos by "cloudinary" by using : 
--error handling
--validation
--send email to registration
-- middleware for validation and auth 
--hashing password
+a-error handling
+b-validation
+c-send email to registration
+d- middleware for validation and auth 
+e-hashing password
 
 2-  add to cart
 3- coupon
